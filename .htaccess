@@ -1,5 +1,2 @@
 Options -Indexes
-
-<Files ~ "^layout.php|configs.php|site_tables.sql$">
 deny from all
-</Files>
